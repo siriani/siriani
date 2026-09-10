@@ -40,22 +40,36 @@
 
 ```
 allan@siriani
------------------------------------------
-OS:         Ph.D., Agribusiness & Development (UNESP, 2026)
-Host:       Centro de Inovação no Agronegócio (CIAg)
-Kernel:     Computer Vision x Deep Learning
-Uptime:     10+ years in applied R&D
-Packages:   6 peer-reviewed papers (60+ citations)
-Shell:      Python / PyTorch / TensorFlow / OpenCV
-Resolution: YOLO + BoT-SORT + Kalman Filter
-DE:         Head of Research & Innovation, CIAg
-WM:         500+ R&D projects led (TRL 3-9)
-Theme:      Poultry Welfare Tech [Dark]
-Terminal:   On-prem GPU homelab (2 servers, Proxmox)
-CPU:        Precision Agriculture & IoT
-GPU:        Agentic AI for Agribusiness
-Memory:     17+ undergrad theses supervised
-Locale:     pt_BR, en_US, es_ES
+-------------------------------------------
+OS:                    Ph.D., Agribusiness & Development (UNESP, 2026)
+Host:                  Centro de Inovação no Agronegócio (CIAg)
+Kernel:                Computer Vision x Deep Learning
+Uptime:                44 years, 4 months, 2 days
+Packages:              6 peer-reviewed papers (60+ citations)
+Shell:                 Python / PyTorch / TensorFlow / OpenCV
+Resolution:            YOLO + BoT-SORT + Kalman Filter
+DE:                    Head of Research & Innovation, CIAg
+WM:                    500+ R&D projects led (TRL 3-9)
+Theme:                 Poultry Welfare Tech [Dark]
+Terminal:              On-prem GPU homelab (2 servers, Proxmox)
+IDE:                   VS Code, Claude Code
+CPU:                   Precision Agriculture & IoT
+GPU:                   Agentic AI for Agribusiness
+Memory:                17+ undergrad theses supervised
+Locale:                pt_BR, en_US, es_ES
+
+Languages.Programming: Python, Java, JavaScript, PHP, Solidity
+Languages.Human:       Portuguese (native), English (advanced), Spanish
+
+Contact.Email:         allan@fatecpompeia.edu.br
+Contact.LinkedIn:      linkedin.com/in/siriani
+Contact.ORCID:         orcid.org/0000-0001-6351-2642
+Contact.Scholar:       scholar.google.com/citations?user=XKajkAEAAAAJ
+Contact.Lattes:        lattes.cnpq.br/9821465540967776
+
+GitHub Stats
+Repos:                 55 public  |  Stars: 5
+Followers:             20         |  Since: 2016
 ```
 
 ⬛🟥🟩🟨🟦🟪🟦⬜
